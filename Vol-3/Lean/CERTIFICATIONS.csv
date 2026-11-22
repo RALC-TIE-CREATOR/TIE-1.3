@@ -1,0 +1,133 @@
+volume,module,declaration,declaration_kind,item,item_title,item_type,chapter
+Vol-3,AlphaInv,alpha_inv_base,theorem,F2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,alpha_inv_base,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,alpha_inv_base,theorem,V1,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,alpha_inv_base_M,theorem,F2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,alpha_inv_base_M,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,alpha_inv_base_M,theorem,V1,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,alpha_decomposition,theorem,F2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,alpha_factors,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,F1_value,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,F3_value,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,F4_value,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,serie_forma,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,correccion_1loop,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,cota_objetivo_consistente,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,serieRadiativa_acotada,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,serie_cota_pi,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,serie_precision,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,serie_vs_CODATA,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,serieNucleo_acotada,theorem,E-40,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,serieNucleo_acotada,theorem,F1,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,serieNucleo_acotada,theorem,F2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,serieNucleo_acotada,theorem,F3,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,AlphaInv,serieNucleo_acotada,theorem,F4,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-3,B1B5Chain,alat_kinematic,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B1B5Chain,alat_phase_form,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B1B5Chain,atr_H0_form,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B1B5Chain,beta_eq_gamma,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B1B5Chain,alat_pos,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B1TC5a,tc5_circumference_form,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B1TC5a,atr_dimensional_form,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B1TC5a,atr_phase_dilution,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B2Weights,weight_sum,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B2Weights,frac_sum,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B2Weights,a_forced,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B2Weights,R_forced,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B3Redshift,tick_loss,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B3Redshift,rate_identity,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B3Redshift,z_exp_iff_log,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B5Renewal,langmuir_equilibrium,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B5Renewal,pair_equilibrium,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B5Renewal,mu_sq_from_occupancy,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B5Renewal,mu_nonneg,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B5Renewal,mu_le_one,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B5Renewal,mu_at_one,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B6Bridge,bridge_quadratic,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,B6Bridge,bridge_solution,theorem,,,,Cap. 9 — TMK (post-cierre B1–B6)
+Vol-3,Baryogenesis,s_sobre_ngamma,theorem,M7,,,Cap. 9 — TMK
+Vol-3,Baryogenesis,g_B_value,theorem,M7,,,Cap. 9 — TMK
+Vol-3,Baryogenesis,g_ratio,theorem,M7,,,Cap. 9 — TMK
+Vol-3,Baryogenesis,eta_combinada,theorem,,,,Cap. 9 — TMK
+Vol-3,Baryogenesis,eta_factor_estructura,theorem,,,,Cap. 9 — TMK
+Vol-3,Baryogenesis,Lambda_como_OmegaL,theorem,,,,Cap. 9 — TMK
+Vol-3,Baryogenesis,H0_consistencia,theorem,,,,Cap. 9 — TMK
+Vol-3,CosmologiaTT,OmegaLambda_pos,theorem,M3,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,CosmologiaTT,OmegaLambda_pos,theorem,T8,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,CosmologiaTT,OmegaLambda_pos,theorem,TT23,TT23: Ecuaciones de Friedmann en la TIE (revisión analítica),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-3,CosmologiaTT,OmegaLambda_lt_one,theorem,M3,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,CosmologiaTT,OmegaLambda_lt_one,theorem,TT23,TT23: Ecuaciones de Friedmann en la TIE (revisión analítica),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-3,CosmologiaTT,friedmann_crit_identity,theorem,M3,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,CosmologiaTT,friedmann_crit_identity,theorem,TT23,TT23: Ecuaciones de Friedmann en la TIE (revisión analítica),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-3,CosmologiaTT,wphi_continuity_zero,theorem,TT23,TT23: Ecuaciones de Friedmann en la TIE (revisión analítica),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-3,Cosmology,omega_sum,theorem,M3,,,Cap. 9 — TMK
+Vol-3,Cosmology,omega_sum,theorem,TC10,,,Cap. 9 — TMK
+Vol-3,Cosmology,omega_numeradores,theorem,M3,,,Cap. 9 — TMK
+Vol-3,Cosmology,omega_numeradores,theorem,TC10,,,Cap. 9 — TMK
+Vol-3,Cosmology,omega_pesos,theorem,M3,,,Cap. 9 — TMK
+Vol-3,Cosmology,omega_pesos,theorem,TC10,,,Cap. 9 — TMK
+Vol-3,Cosmology,omegaB_menor,theorem,TC10,,,Cap. 9 — TMK
+Vol-3,Cosmology,omegaB_mayor,theorem,,,,Cap. 9 — TMK
+Vol-3,Epochs,t0_positive,theorem,D-2,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,Epochs,ages_sum_of_defs,theorem,D-2,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,F1QuickWins,pt4_homogeneity,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,pt4_translation_bijective,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,co2_first_order_product,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,co2_gps_arithmetic,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,co3_redshift_positive,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,lt2_dispersion_solve,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,tt10_schwarzschild_identity,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,tt21_sgrA_consistency,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,co5_gpb_sigma,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,co6_sagnac_additive,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,co1_distortion_factorization,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,te4_phi_positive,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,tt18_domain_nonempty,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,tt2_phi_factorization,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,lc1_phase_locked,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,lm1_mass_radius_duality,theorem,,,,Varios (cierre)
+Vol-3,F1QuickWins,tm2_conservation,theorem,,,,Varios (cierre)
+Vol-3,F3Structural,tmt_radius_relation,theorem,,,,Varios (cierre)
+Vol-3,F3Structural,tmk_tc2c_dilation,theorem,,,,Varios (cierre)
+Vol-3,F3Structural,tc5_atr_identity,theorem,,,,Varios (cierre)
+Vol-3,MateriaLM2,lm2_identity,theorem,A03,,,Cap. 3 — TM / Cap. 9 — TMK
+Vol-3,MateriaLM2,lm2_identity,theorem,LM2,LM2: Volúmenes de Configuración de Vórtices Hopf,Lema + Demostración + Ecuación,Cap. 3 — Materia (TM)
+Vol-3,MateriaLM2,lm2_identity,theorem,TM1,TM1: Teorema de Movimiento General,Teorema + Demostración,Cap. 3 — Materia (TM)
+Vol-3,MateriaLM2,lm2_value_interval,theorem,A03,,,Cap. 3 — TM / Cap. 9 — TMK
+Vol-3,MateriaLM2,lm2_value_interval,theorem,LM2,LM2: Volúmenes de Configuración de Vórtices Hopf,Lema + Demostración + Ecuación,Cap. 3 — Materia (TM)
+Vol-3,MateriaLM2,lm2_value_interval,theorem,TM1,TM1: Teorema de Movimiento General,Teorema + Demostración,Cap. 3 — Materia (TM)
+Vol-3,MateriaLM2,lm2_vs_mass_ratio,theorem,LM2,LM2: Volúmenes de Configuración de Vórtices Hopf,Lema + Demostración + Ecuación,Cap. 3 — Materia (TM)
+Vol-3,Nofuga,composite_deficit,theorem,D-2,,,Cap. 9 — TMK
+Vol-3,TMEAlgebra,clat_value,theorem,A08,,,Cap. 8 — TME
+Vol-3,TMEAlgebra,clat_value,theorem,E2,,,Cap. 8 — TME
+Vol-3,TMEAlgebra,clat_value,theorem,TME1,,,Cap. 8 — TME
+Vol-3,TMEAlgebra,clat_value,theorem,V2,,,Cap. 8 — TME
+Vol-3,TMEAlgebra,clat_value,theorem,V4,,,Cap. 8 — TME
+Vol-3,TMEAlgebra,clat_value,theorem,V5,,,Cap. 8 — TME
+Vol-3,TMEAlgebra,em_source_factor,theorem,A08,,,Cap. 8 — TME
+Vol-3,TMEAlgebra,em_source_factor,theorem,E2,,,Cap. 8 — TME
+Vol-3,TMEAlgebra,em_source_factor,theorem,TME1,,,Cap. 8 — TME
+Vol-3,TMEAlgebra,em_source_factor,theorem,V4,,,Cap. 8 — TME
+Vol-3,TMEAlgebra,em_source_factor,theorem,V5,,,Cap. 8 — TME
+Vol-3,TMKAlgebra,hubble_value,theorem,A09,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,hubble_value,theorem,M3,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,hubble_value,theorem,M7,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,hubble_value,theorem,TC5,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,hubble_value,theorem,TMK1,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,lambda_in_hub,theorem,A09,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,lambda_in_hub,theorem,M3,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,lambda_in_hub,theorem,M7,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,lambda_in_hub,theorem,TC5,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,lambda_in_hub,theorem,TMK1,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,hubble_value_autoconsistente,theorem,D-2,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,hubble_value_autoconsistente,theorem,H0,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,hubble_value_autoconsistente,theorem,TMK1,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMKAlgebra,hubble_value_autoconsistente,theorem,V1,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-3,TMQAlgebra,kg_factorization,theorem,A07,,,Cap. 7 — TMQ
+Vol-3,TMQAlgebra,kg_factorization,theorem,TMQ1,,,Cap. 7 — TMQ
+Vol-3,TMQAlgebra,kg_factorization,theorem,V1,,,Cap. 7 — TMQ
+Vol-3,TMQAlgebra,kg_printed_iff,theorem,A07,,,Cap. 7 — TMQ
+Vol-3,TMQAlgebra,kg_printed_iff,theorem,TMQ1,,,Cap. 7 — TMQ
+Vol-3,TMQAlgebra,kg_printed_iff,theorem,V1,,,Cap. 7 — TMQ
+Vol-3,TMQAlgebra,dirac_implies_kg,theorem,A07,,,Cap. 7 — TMQ
+Vol-3,TMQAlgebra,dirac_implies_kg,theorem,TMQ1,,,Cap. 7 — TMQ

@@ -1,0 +1,298 @@
+volume,module,declaration,declaration_kind,item,item_title,item_type,chapter
+Vol-1,BacklogCore,tt13_no_frame_dragging,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,tg3_trace_relation,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,tg2_ppn_deviation,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,tg8_power_scaling,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,ta6_trace_perfect_fluid,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,tg1_inverse_expansion,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,tg9_quadratic,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,tt20_shadow_rotational_symmetry,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,tg2_lapse_metric,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,ta6_trace_phase_field,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,tt10_newtonian_limit,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,tt13_lt_zero_iff,theorem,,,,Varios (cierre)
+Vol-1,BacklogCore,tt20_potential_reflection,theorem,,,,Varios (cierre)
+Vol-1,CampoRhoI,torque_orthogonal_spin,theorem,TT15,TT15: Precesión desde el gradiente de \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,CampoRhoI,torque_orthogonal_spin,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,torque_orthogonal_axis,theorem,TT15,TT15: Precesión desde el gradiente de \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,CampoRhoI,torque_orthogonal_axis,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,scalar_triple_cyclic,theorem,TT15,TT15: Precesión desde el gradiente de \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,CampoRhoI,scalar_triple_cyclic,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,cross3_antisym,theorem,TT15,TT15: Precesión desde el gradiente de \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,CampoRhoI,cross3_antisym,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,bridge_h0,theorem,TT14,TT14: Campo de densidad de información \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,CampoRhoI,bridge_h0,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,rhoI_coupling_factor,theorem,E-2,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,rhoI_coupling_factor,theorem,R1,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,rhoI_coupling_factor,theorem,TT14,TT14: Campo de densidad de información \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,CampoRhoI,rhoI_coupling_factor,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,OmegaLT_eq_pos_half_Bg,theorem,E-2,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,OmegaLT_eq_pos_half_Bg,theorem,R1,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,OmegaLT_eq_pos_half_Bg,theorem,TT14,TT14: Campo de densidad de información \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,CampoRhoI,OmegaLT_eq_pos_half_Bg,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,rhoI_tau_factor,theorem,E-2,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,rhoI_tau_factor,theorem,R1,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,rhoI_tau_factor,theorem,TT14,TT14: Campo de densidad de información \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,CampoRhoI,rhoI_tau_factor,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,rhoI_precession_orthogonal,theorem,E-2,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,rhoI_precession_orthogonal,theorem,R1,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,rhoI_precession_orthogonal,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,hamiltonian_sign,theorem,R1,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,CampoRhoI,hamiltonian_sign,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,Coregulator,coregulator_identity,theorem,E-33,,,Base
+Vol-1,Coregulator,coregulator_identity,theorem,E0,,,Base
+Vol-1,Coregulator,coregulator_identity,theorem,T0,,,Base
+Vol-1,CosmologiaTT,OmegaLambda_pos,theorem,M3,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,CosmologiaTT,OmegaLambda_pos,theorem,T8,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,CosmologiaTT,OmegaLambda_pos,theorem,TT23,TT23: Ecuaciones de Friedmann en la TIE (revisión analítica),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,CosmologiaTT,OmegaLambda_lt_one,theorem,M3,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,CosmologiaTT,OmegaLambda_lt_one,theorem,TT23,TT23: Ecuaciones de Friedmann en la TIE (revisión analítica),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,CosmologiaTT,friedmann_crit_identity,theorem,M3,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,CosmologiaTT,friedmann_crit_identity,theorem,TT23,TT23: Ecuaciones de Friedmann en la TIE (revisión analítica),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,CosmologiaTT,wphi_continuity_zero,theorem,TT23,TT23: Ecuaciones de Friedmann en la TIE (revisión analítica),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,Epochs,t0_positive,theorem,D-2,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,Epochs,ages_sum_of_defs,theorem,D-2,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,Espacio,le2_decomposition_unique,theorem,A02,,,Cap. 2 — TE
+Vol-1,Espacio,le2_decomposition_unique,theorem,E1,,,Cap. 2 — TE
+Vol-1,Espacio,le2_decomposition_unique,theorem,E2,,,Cap. 2 — TE
+Vol-1,Espacio,le2_decomposition_unique,theorem,E3,,,Cap. 2 — TE
+Vol-1,Espacio,le2_decomposition_unique,theorem,LE1,LE1: Límite continuo de la red,Lema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,le2_decomposition_unique,theorem,LE2,LE2: Descomposición canónica de la métrica efectiva (definición-lema),Lema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,le2_decomposition_unique,theorem,TE1,TE1: Planicidad Absoluta de $\mathcal{S}$,Teorema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,le2_decomposition_unique,theorem,TE2,TE2: Carácter Absoluto de la Distancia Espacial,Teorema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,le2_decomposition_unique,theorem,TE4,TE4: Ausencia de singularidades intrínsecas en $\mathcal{S}$,Teorema + Demostración,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,le2_decomposition_unique,theorem,V2,,,Cap. 2 — TE
+Vol-1,Espacio,le2_decomposition_unique,theorem,V3,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_diagonal_sum,theorem,A02,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_diagonal_sum,theorem,E1,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_diagonal_sum,theorem,E2,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_diagonal_sum,theorem,E3,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_diagonal_sum,theorem,LE1,LE1: Límite continuo de la red,Lema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te_red_diagonal_sum,theorem,LE2,LE2: Descomposición canónica de la métrica efectiva (definición-lema),Lema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te_red_diagonal_sum,theorem,TE1,TE1: Planicidad Absoluta de $\mathcal{S}$,Teorema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te_red_diagonal_sum,theorem,TE2,TE2: Carácter Absoluto de la Distancia Espacial,Teorema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te_red_diagonal_sum,theorem,TE4,TE4: Ausencia de singularidades intrínsecas en $\mathcal{S}$,Teorema + Demostración,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te_red_diagonal_sum,theorem,V2,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_diagonal_sum,theorem,V3,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_diagonal_dispersion,theorem,A02,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_diagonal_dispersion,theorem,E1,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_diagonal_dispersion,theorem,E2,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_diagonal_dispersion,theorem,LE1,LE1: Límite continuo de la red,Lema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te_red_diagonal_dispersion,theorem,LE2,LE2: Descomposición canónica de la métrica efectiva (definición-lema),Lema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te_red_diagonal_dispersion,theorem,TE1,TE1: Planicidad Absoluta de $\mathcal{S}$,Teorema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te_red_diagonal_dispersion,theorem,TE4,TE4: Ausencia de singularidades intrínsecas en $\mathcal{S}$,Teorema + Demostración,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te_red_diagonal_dispersion,theorem,V2,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_vg_consistency,theorem,A02,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_vg_consistency,theorem,E1,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_vg_consistency,theorem,E2,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_vg_consistency,theorem,LE2,LE2: Descomposición canónica de la métrica efectiva (definición-lema),Lema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te_red_vg_consistency,theorem,V2,,,Cap. 2 — TE
+Vol-1,Espacio,te_red_vg_consistency,theorem,V3,,,Cap. 2 — TE
+Vol-1,Espacio,te2_measured_le_absolute,theorem,E2,,,Cap. 2 — TE
+Vol-1,Espacio,te2_measured_le_absolute,theorem,E3,,,Cap. 2 — TE
+Vol-1,Espacio,te2_measured_le_absolute,theorem,TE2,TE2: Carácter Absoluto de la Distancia Espacial,Teorema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te2_measured_le_absolute,theorem,V2,,,Cap. 2 — TE
+Vol-1,Espacio,te2_measured_le_absolute,theorem,V3,,,Cap. 2 — TE
+Vol-1,Espacio,te1_christoffel_zero,theorem,E4,,,Cap. 2 — TE
+Vol-1,Espacio,te1_christoffel_zero,theorem,PE1,PE1: Existencia e Inercia del Espacio,Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te1_christoffel_zero,theorem,TE1,TE1: Planicidad Absoluta de $\mathcal{S}$,Teorema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te1_riemann_zero,theorem,PE1,PE1: Existencia e Inercia del Espacio,Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,Espacio,te1_riemann_zero,theorem,TE1,TE1: Planicidad Absoluta de $\mathcal{S}$,Teorema + Demostración + Ecuación,Cap. 2 — Espacio (TE)
+Vol-1,F1QuickWins,pt4_homogeneity,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,pt4_translation_bijective,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,co2_first_order_product,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,co2_gps_arithmetic,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,co3_redshift_positive,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,lt2_dispersion_solve,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,tt10_schwarzschild_identity,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,tt21_sgrA_consistency,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,co5_gpb_sigma,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,co6_sagnac_additive,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,co1_distortion_factorization,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,te4_phi_positive,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,tt18_domain_nonempty,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,tt2_phi_factorization,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,lc1_phase_locked,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,lm1_mass_radius_duality,theorem,,,,Varios (cierre)
+Vol-1,F1QuickWins,tm2_conservation,theorem,,,,Varios (cierre)
+Vol-1,F2Analysis,tt6_difference_quotient,theorem,,,,Varios (cierre)
+Vol-1,F2Analysis,tm4_superposition,theorem,,,,Varios (cierre)
+Vol-1,F2Analysis,ta2_stress_symmetry,theorem,,,,Varios (cierre)
+Vol-1,F2Analysis,ta1_sqrt_upper,theorem,,,,Varios (cierre)
+Vol-1,F2Analysis,ta1_lagrangian_bound,theorem,,,,Varios (cierre)
+Vol-1,F2Analysis,ta1_sqrt_lower,theorem,,,,Varios (cierre)
+Vol-1,F2Analysis,tm1_free_motion,theorem,,,,Varios (cierre)
+Vol-1,F2Analysis,pt2_no_cross_term,theorem,,,,Varios (cierre)
+Vol-1,F2Analysis,tg4_conservation,theorem,,,,Varios (cierre)
+Vol-1,F2Analysis,ta8_total_conserved,theorem,,,,Varios (cierre)
+Vol-1,Graph21,node_count,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,Graph21,nodes_nodup,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,Graph21,edge_count,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,Graph21,edge_sum,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,Graph21,beta1,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,Graph21,beta1_via_group,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,Graph21,rootM,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,Graph21,kink_partition,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,Graph21,axis_partition,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,OrdenTemporal,tt3_simultaneity,theorem,T3,,,Cap. 1 — TT
+Vol-1,OrdenTemporal,tt3_simultaneity,theorem,TT3,TT3: Simultaneidad absoluta,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,OrdenTemporal,tt3_simultaneity,theorem,TT4,TT4: Invarianza del intervalo temporal absoluto,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,OrdenTemporal,tt3_simultaneity,theorem,TT5,TT5: Causalidad como orden total,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,OrdenTemporal,tt4_deficit_nonneg,theorem,T3,,,Cap. 1 — TT
+Vol-1,OrdenTemporal,tt4_deficit_nonneg,theorem,TT3,TT3: Simultaneidad absoluta,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,OrdenTemporal,tt4_deficit_nonneg,theorem,TT4,TT4: Invarianza del intervalo temporal absoluto,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,OrdenTemporal,tt4_deficit_nonneg,theorem,TT5,TT5: Causalidad como orden total,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,OrdenTemporal,tt4_clock_no_exceed,theorem,TT3,TT3: Simultaneidad absoluta,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,OrdenTemporal,tt4_clock_no_exceed,theorem,TT4,TT4: Invarianza del intervalo temporal absoluto,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,OrdenTemporal,tt5_transitive,theorem,T0,,,Cap. 1 — TT
+Vol-1,OrdenTemporal,tt5_transitive,theorem,TT4,TT4: Invarianza del intervalo temporal absoluto,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,OrdenTemporal,tt5_transitive,theorem,TT5,TT5: Causalidad como orden total,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,OrdenTemporal,tt5_causal_subset_temporal,theorem,T0,,,Cap. 1 — TT
+Vol-1,OrdenTemporal,tt5_causal_subset_temporal,theorem,TT5,TT5: Causalidad como orden total,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,PDI,Phi_nonneg,theorem,LT1,LT1: Relación de dispersión del oscilador fundamental,Lema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,PDI,Phi_le_one,theorem,LT1,LT1: Relación de dispersión del oscilador fundamental,Lema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,PDI,Phi_bounds,theorem,,,,Cap. 1 — TT
+Vol-1,PDI,Phi_eq_one_iff,theorem,,,,Cap. 1 — TT
+Vol-1,PDI,energy_bound,theorem,LT1,LT1: Relación de dispersión del oscilador fundamental,Lema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,PDI,Phi_lorentz_bounds,theorem,LT1,LT1: Relación de dispersión del oscilador fundamental,Lema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,PDI,Phi_lorentz_antitone,theorem,,,,Cap. 1 — TT
+Vol-1,Primitivos,two_pi_pos,lemma,E-57,,,Cap. 1 — TT
+Vol-1,Primitivos,two_pi_pos,lemma,E0,,,Cap. 1 — TT
+Vol-1,Primitivos,two_pi_pos,lemma,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,sqrt2pi_pos,lemma,E-57,,,Cap. 1 — TT
+Vol-1,Primitivos,sqrt2pi_pos,lemma,E0,,,Cap. 1 — TT
+Vol-1,Primitivos,sqrt2pi_pos,lemma,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,sqrt2pi_ne,lemma,E-57,,,Cap. 1 — TT
+Vol-1,Primitivos,sqrt2pi_ne,lemma,E0,,,Cap. 1 — TT
+Vol-1,Primitivos,sqrt2pi_ne,lemma,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,sq_sqrt2pi,lemma,E-57,,,Cap. 1 — TT
+Vol-1,Primitivos,sq_sqrt2pi,lemma,E0,,,Cap. 1 — TT
+Vol-1,Primitivos,sq_sqrt2pi,lemma,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,T0_ne,lemma,E-57,,,Cap. 1 — TT
+Vol-1,Primitivos,T0_ne,lemma,E0,,,Cap. 1 — TT
+Vol-1,Primitivos,T0_ne,lemma,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,a0_ne,lemma,E-57,,,Cap. 1 — TT
+Vol-1,Primitivos,a0_ne,lemma,E0,,,Cap. 1 — TT
+Vol-1,Primitivos,a0_ne,lemma,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,m0_ne,lemma,E-57,,,Cap. 1 — TT
+Vol-1,Primitivos,m0_ne,lemma,E0,,,Cap. 1 — TT
+Vol-1,Primitivos,m0_ne,lemma,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,c_ne,lemma,E-57,,,Cap. 1 — TT
+Vol-1,Primitivos,c_ne,lemma,E0,,,Cap. 1 — TT
+Vol-1,Primitivos,c_ne,lemma,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,hbar_ne,lemma,E-57,,,Cap. 1 — TT
+Vol-1,Primitivos,hbar_ne,lemma,E0,,,Cap. 1 — TT
+Vol-1,Primitivos,hbar_ne,lemma,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,a0_eq_sqrt_lP,theorem,E0,,,Cap. 1 — TT
+Vol-1,Primitivos,a0_eq_sqrt_lP,theorem,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,T0_eq_sqrt_tP,theorem,E0,,,Cap. 1 — TT
+Vol-1,Primitivos,T0_eq_sqrt_tP,theorem,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,G_eq_c,theorem,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,lP_sq_a0,theorem,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,lP_sq,theorem,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,c_mul_tP,theorem,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,lP_div_tP,theorem,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,hbar_eq_m0,theorem,E-57,,,Cap. 1 — TT
+Vol-1,Primitivos,hbar_eq_m0,theorem,T0,,,Cap. 1 — TT
+Vol-1,Primitivos,E0_eq,theorem,E-57,,,Cap. 1 — TT
+Vol-1,Primitivos,E0_eq,theorem,T0,,,Cap. 1 — TT
+Vol-1,RhoIField,crossECLM_apply,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RhoIField,crossECLM_apply,theorem,T7C,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RhoIField,rpow32,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RhoIField,rpow52,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RhoIField,rhoIDipole_grad,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RhoIField,rhoIDipole_grad,theorem,T7C,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RhoIField,fderiv_curl_dipole,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RhoIField,fderiv_curl_dipole,theorem,T7C,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RhoIField,curl_dipole,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RhoIField,curl_dipole,theorem,T7C,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RhoIField,curlE_const_smul,theorem,,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RhoIField,curl_Ag,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-1,RotationalChannel,rotational_channel_dual,theorem,D-1,,,Cap. 1 — TT
+Vol-1,RotationalChannel,rotational_channel_dual,theorem,PT14,PT14: Principio de Mínima Acción 4D,Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,RotationalChannel,rotational_channel_half_Bg,theorem,D-1,,,Cap. 1 — TT
+Vol-1,RotationalChannel,rotational_channel_half_Bg,theorem,PT14,PT14: Principio de Mínima Acción 4D,Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,RotationalChannel,rotational_channel_half_Bg,theorem,V3,,,Cap. 1 — TT
+Vol-1,T0Derivation,via2_algebra,theorem,H1,,,Cap. 1 — TT
+Vol-1,T0Derivation,via2_algebra,theorem,H2,,,Cap. 1 — TT
+Vol-1,T0Derivation,via2_sqrt,theorem,H1,,,Cap. 1 — TT
+Vol-1,T0Derivation,via2_sqrt,theorem,H2,,,Cap. 1 — TT
+Vol-1,T0Derivation,via1,theorem,,,,Cap. 1 — TT
+Vol-1,T0Derivation,T0_eq,theorem,,,,Cap. 1 — TT
+Vol-1,TMKAlgebra,hubble_value,theorem,A09,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,hubble_value,theorem,M3,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,hubble_value,theorem,M7,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,hubble_value,theorem,TC5,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,hubble_value,theorem,TMK1,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,lambda_in_hub,theorem,A09,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,lambda_in_hub,theorem,M3,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,lambda_in_hub,theorem,M7,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,lambda_in_hub,theorem,TC5,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,lambda_in_hub,theorem,TMK1,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,hubble_value_autoconsistente,theorem,D-2,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,hubble_value_autoconsistente,theorem,H0,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,hubble_value_autoconsistente,theorem,TMK1,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMKAlgebra,hubble_value_autoconsistente,theorem,V1,,,Cap. 1 — TT / Cap. 9 — TMK
+Vol-1,TMTCellGraph,cell_edges_length,theorem,TMT-E1,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,TMTCellGraph,cell_edges_decomp,theorem,TMT-E1,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,TMTCellGraph,cell_betti1,theorem,TMT-E1,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-1,TT19Shift,momentum_constraint_mode,theorem,E-10,,,Cap. 1 — TT
+Vol-1,TT19Shift,momentum_constraint_mode,theorem,TT19,TT19: Ondas gravitacionales tensoriales en la TIE,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TT19Shift,vector_velocity_fixed,theorem,E-10,,,Cap. 1 — TT
+Vol-1,TT19Shift,vector_velocity_fixed,theorem,TT19,TT19: Ondas gravitacionales tensoriales en la TIE,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TensorEstatico,tt8_core,theorem,A01A,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-1,TensorEstatico,tt8_core,theorem,EC2,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-1,TensorEstatico,tt8_core,theorem,F29,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-1,TensorEstatico,tt8_core,theorem,LT3,LT3: Tensor de Einstein para la métrica TIE estática,Lema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TensorEstatico,tt8_core,theorem,PT2,PT2: Independencia y Separación Absoluta,Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TensorEstatico,tt8_core,theorem,TT8,TT8: Unicidad de la solución de vacío esféricamente simétrica,Teorema + Demostración,Cap. 1 — Tiempo (TT)
+Vol-1,TensorEstatico,tt8_einstein3,theorem,EC2,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-1,TensorEstatico,tt8_einstein3,theorem,LT3,LT3: Tensor de Einstein para la métrica TIE estática,Lema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TensorEstatico,tt8_einstein3,theorem,R3,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-1,TensorEstatico,tt8_einstein3,theorem,TT8,TT8: Unicidad de la solución de vacío esféricamente simétrica,Teorema + Demostración,Cap. 1 — Tiempo (TT)
+Vol-1,TensorEstatico,tt8_equivalence,theorem,EC2,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-1,TensorEstatico,tt8_equivalence,theorem,R3,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-1,TensorEstatico,tt8_equivalence,theorem,TT8,TT8: Unicidad de la solución de vacío esféricamente simétrica,Teorema + Demostración,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoResueltos,tt12_derivation,theorem,B1,,,Cap. 1 — TT
+Vol-1,TiempoResueltos,tt12_derivation,theorem,B4,,,Cap. 1 — TT
+Vol-1,TiempoResueltos,tt12_derivation,theorem,B5,,,Cap. 1 — TT
+Vol-1,TiempoResueltos,tt12_derivation,theorem,TT12,TT12: Modos colectivos y emergencia del espectro continuo,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoResueltos,tt12_derivation,theorem,TT5B,,,Cap. 1 — TT
+Vol-1,TiempoResueltos,tt5b_lightcone,theorem,B1,,,Cap. 1 — TT
+Vol-1,TiempoResueltos,tt5b_lightcone,theorem,B4,,,Cap. 1 — TT
+Vol-1,TiempoResueltos,tt5b_lightcone,theorem,B5,,,Cap. 1 — TT
+Vol-1,TiempoResueltos,tt5b_lightcone,theorem,TT12,TT12: Modos colectivos y emergencia del espectro continuo,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoResueltos,tt5b_lightcone,theorem,TT5B,,,Cap. 1 — TT
+Vol-1,TiempoResueltos,lapse_Phi_bounds,theorem,B1,,,Cap. 1 — TT
+Vol-1,TiempoResueltos,lapse_Phi_bounds,theorem,B4,,,Cap. 1 — TT
+Vol-1,TiempoResueltos,lapse_Phi_bounds,theorem,TT12,TT12: Modos colectivos y emergencia del espectro continuo,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoResueltos,lapse_Phi_bounds,theorem,TT5B,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,lt1_dispersion,theorem,A01A,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,lt1_dispersion,theorem,EC1,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,lt1_dispersion,theorem,EC2,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,lt1_dispersion,theorem,F23,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,lt1_dispersion,theorem,LT1,LT1: Relación de dispersión del oscilador fundamental,Lema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,lt1_dispersion,theorem,PT14,PT14: Principio de Mínima Acción 4D,Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,lt1_dispersion,theorem,TT11,"TT11: Función de distorsión general $\Phi(v, r)$",Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,lt1_dispersion,theorem,TT12,TT12: Modos colectivos y emergencia del espectro continuo,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,lt1_dispersion,theorem,TT9,TT9: Función de distorsión gravitacional $\Phi(r)$,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,tt9_Phi_bounds,theorem,A01A,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,tt9_Phi_bounds,theorem,EC1,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,tt9_Phi_bounds,theorem,EC2,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,tt9_Phi_bounds,theorem,F23,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,tt9_Phi_bounds,theorem,LT1,LT1: Relación de dispersión del oscilador fundamental,Lema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,tt9_Phi_bounds,theorem,PT14,PT14: Principio de Mínima Acción 4D,Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,tt9_Phi_bounds,theorem,TT9,TT9: Función de distorsión gravitacional $\Phi(r)$,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,tt11_Phi_bounds,theorem,TT11,"TT11: Función de distorsión general $\Phi(v, r)$",Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,tt11_Phi_bounds,theorem,TT9,TT9: Función de distorsión gravitacional $\Phi(r)$,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,tt12_spectrum,theorem,TT11,"TT11: Función de distorsión general $\Phi(v, r)$",Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,tt12_spectrum,theorem,TT12,TT12: Modos colectivos y emergencia del espectro continuo,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,pt14_kinetic_prefactor,theorem,E0,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,pt14_kinetic_prefactor,theorem,PT14,PT14: Principio de Mínima Acción 4D,Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,pt14_kinetic_prefactor,theorem,TT12,TT12: Modos colectivos y emergencia del espectro continuo,Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,tt22_alpha1,theorem,A01A,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,tt22_alpha1,theorem,E0,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,tt22_alpha1,theorem,F01,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,tt22_alpha1,theorem,F02,,,Cap. 1 — TT
+Vol-1,TiempoTeoremas,tt22_alpha1,theorem,PT14,PT14: Principio de Mínima Acción 4D,Ecuación,Cap. 1 — Tiempo (TT)
+Vol-1,TiempoTeoremas,tt22_alpha1,theorem,TT22,TT22: Determinación de los parámetros de la acción,Lema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)

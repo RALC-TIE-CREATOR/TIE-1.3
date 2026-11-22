@@ -1,0 +1,680 @@
+volume,module,declaration,declaration_kind,item,item_title,item_type,chapter
+Vol-2,ADMShift,K1_symmetric,theorem,ADM-02,,,Cap. 6 — TMG
+Vol-2,ADMShift,K1_symmetric,theorem,E-10,,,Cap. 6 — TMG
+Vol-2,ADMShift,shift_momentum_constraint,theorem,ADM-02,,,Cap. 6 — TMG
+Vol-2,ADMShift,shift_momentum_constraint,theorem,E-10,,,Cap. 6 — TMG
+Vol-2,ADMStatic,static_trace_deltaN_zero,theorem,ADM-01,,,Cap. 6 — TMG
+Vol-2,ADMStatic,static_solve_Rij,theorem,ADM-01,,,Cap. 6 — TMG
+Vol-2,AlphaInv,alpha_inv_base,theorem,F2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,alpha_inv_base,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,alpha_inv_base,theorem,V1,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,alpha_inv_base_M,theorem,F2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,alpha_inv_base_M,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,alpha_inv_base_M,theorem,V1,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,alpha_decomposition,theorem,F2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,alpha_factors,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,F1_value,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,F3_value,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,F4_value,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,serie_forma,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,correccion_1loop,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,cota_objetivo_consistente,theorem,,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,serieRadiativa_acotada,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,serie_cota_pi,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,serie_precision,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,serie_vs_CODATA,theorem,M2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,serieNucleo_acotada,theorem,E-40,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,serieNucleo_acotada,theorem,F1,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,serieNucleo_acotada,theorem,F2,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,serieNucleo_acotada,theorem,F3,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,AlphaInv,serieNucleo_acotada,theorem,F4,,,Cap. 4 — TMT / Cap. 8 — TME
+Vol-2,B4KR,kR_half_iff,theorem,,,,Cap. 4 — TMT (B4)
+Vol-2,B4KR,kR_pos,theorem,,,,Cap. 4 — TMT (B4)
+Vol-2,BacklogCore,tt13_no_frame_dragging,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,tg3_trace_relation,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,tg2_ppn_deviation,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,tg8_power_scaling,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,ta6_trace_perfect_fluid,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,tg1_inverse_expansion,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,tg9_quadratic,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,tt20_shadow_rotational_symmetry,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,tg2_lapse_metric,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,ta6_trace_phase_field,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,tt10_newtonian_limit,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,tt13_lt_zero_iff,theorem,,,,Varios (cierre)
+Vol-2,BacklogCore,tt20_potential_reflection,theorem,,,,Varios (cierre)
+Vol-2,CampoRhoI,torque_orthogonal_spin,theorem,TT15,TT15: Precesión desde el gradiente de \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-2,CampoRhoI,torque_orthogonal_spin,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,torque_orthogonal_axis,theorem,TT15,TT15: Precesión desde el gradiente de \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-2,CampoRhoI,torque_orthogonal_axis,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,scalar_triple_cyclic,theorem,TT15,TT15: Precesión desde el gradiente de \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-2,CampoRhoI,scalar_triple_cyclic,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,cross3_antisym,theorem,TT15,TT15: Precesión desde el gradiente de \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-2,CampoRhoI,cross3_antisym,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,bridge_h0,theorem,TT14,TT14: Campo de densidad de información \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-2,CampoRhoI,bridge_h0,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,rhoI_coupling_factor,theorem,E-2,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,rhoI_coupling_factor,theorem,R1,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,rhoI_coupling_factor,theorem,TT14,TT14: Campo de densidad de información \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-2,CampoRhoI,rhoI_coupling_factor,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,OmegaLT_eq_pos_half_Bg,theorem,E-2,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,OmegaLT_eq_pos_half_Bg,theorem,R1,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,OmegaLT_eq_pos_half_Bg,theorem,TT14,TT14: Campo de densidad de información \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-2,CampoRhoI,OmegaLT_eq_pos_half_Bg,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,rhoI_tau_factor,theorem,E-2,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,rhoI_tau_factor,theorem,R1,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,rhoI_tau_factor,theorem,TT14,TT14: Campo de densidad de información \(\rho_I\),Teorema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-2,CampoRhoI,rhoI_tau_factor,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,rhoI_precession_orthogonal,theorem,E-2,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,rhoI_precession_orthogonal,theorem,R1,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,rhoI_precession_orthogonal,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,hamiltonian_sign,theorem,R1,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,CampoRhoI,hamiltonian_sign,theorem,V3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,Combinatorics,plaquette_count,theorem,,,,Cap. 4 — TMT
+Vol-2,Combinatorics,plaquettes_nodup,theorem,,,,Cap. 4 — TMT
+Vol-2,Combinatorics,plaquette_two_axes,theorem,,,,Cap. 4 — TMT
+Vol-2,Combinatorics,axis_distribution,theorem,,,,Cap. 4 — TMT
+Vol-2,Combinatorics,kink_antikink_distribution,theorem,,,,Cap. 4 — TMT
+Vol-2,Combinatorics,F3_ordered,theorem,,,,Cap. 4 — TMT
+Vol-2,Combinatorics,F3_pairs,theorem,,,,Cap. 4 — TMT
+Vol-2,Dispersion,coef_1_24,theorem,M8,,,Cap. 6 — TMG
+Vol-2,Dispersion,coef_1_6,theorem,M8,,,Cap. 6 — TMG
+Vol-2,Dispersion,truncOmega_factor,theorem,,,,Cap. 6 — TMG
+Vol-2,Dispersion,truncOmega_expand,theorem,,,,Cap. 6 — TMG
+Vol-2,Dispersion,truncOmega_correction,theorem,,,,Cap. 6 — TMG
+Vol-2,ENTLattice,exchange_ticks,theorem,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLattice,exchange_ticks,theorem,T01,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLattice,exchange_swaps,theorem,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLattice,rel_path,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLattice,W_single,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLattice,W_double,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,angR_one,lemma,G2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,angR_one,lemma,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,angR_one,lemma,T02,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,angR_neg_one,lemma,G2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,angR_neg_one,lemma,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,angR_neg_one,lemma,T02,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,dAng_antisymm,theorem,G2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,dAng_antisymm,theorem,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,dAng_mod,theorem,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,Sraw_telescope,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,Wg_mod,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,exchange_class,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,Wg_backtrack,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,Wg_class_eq,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTLatticeGen,exchange_winding_ne_zero,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTP3,chi_completa,theorem,P3,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTP3,chi_completa,theorem,T01,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTP3,chi_completa,theorem,Z2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTP3,chi_trivial,theorem,P3,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTP3,chi_trivial,theorem,T01,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTP3,chi_trivial,theorem,Z2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTP3,puente,theorem,P3,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTP3,puente,theorem,Z2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauli,pauli_sq,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauli,pauli_sq,theorem,P1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauli,pauli_sq,theorem,T01,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauli,pauli_sq,theorem,T02,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauli,exp_theta_s3_diag,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauli,exp_theta_s3_diag,theorem,P1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauli,exp_theta_s3_diag,theorem,T02,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauli,exp_pi_s3,theorem,P1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauliGen,exp_theta_s3_cos_sin,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauliGen,exp_theta_s3_cos_sin,theorem,T02,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauliGen,conjU_spec,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauliGen,conjU_det,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauliGen,exp_theta_gen,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauliGen,exp_pi_gen,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,ENTPauliGen,exp_two_pi_gen,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-2,F1QuickWins,pt4_homogeneity,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,pt4_translation_bijective,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,co2_first_order_product,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,co2_gps_arithmetic,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,co3_redshift_positive,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,lt2_dispersion_solve,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,tt10_schwarzschild_identity,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,tt21_sgrA_consistency,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,co5_gpb_sigma,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,co6_sagnac_additive,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,co1_distortion_factorization,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,te4_phi_positive,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,tt18_domain_nonempty,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,tt2_phi_factorization,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,lc1_phase_locked,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,lm1_mass_radius_duality,theorem,,,,Varios (cierre)
+Vol-2,F1QuickWins,tm2_conservation,theorem,,,,Varios (cierre)
+Vol-2,F2Analysis,tt6_difference_quotient,theorem,,,,Varios (cierre)
+Vol-2,F2Analysis,tm4_superposition,theorem,,,,Varios (cierre)
+Vol-2,F2Analysis,ta2_stress_symmetry,theorem,,,,Varios (cierre)
+Vol-2,F2Analysis,ta1_sqrt_upper,theorem,,,,Varios (cierre)
+Vol-2,F2Analysis,ta1_lagrangian_bound,theorem,,,,Varios (cierre)
+Vol-2,F2Analysis,ta1_sqrt_lower,theorem,,,,Varios (cierre)
+Vol-2,F2Analysis,tm1_free_motion,theorem,,,,Varios (cierre)
+Vol-2,F2Analysis,pt2_no_cross_term,theorem,,,,Varios (cierre)
+Vol-2,F2Analysis,tg4_conservation,theorem,,,,Varios (cierre)
+Vol-2,F2Analysis,ta8_total_conserved,theorem,,,,Varios (cierre)
+Vol-2,FrameAlgebra,fin_mk0,theorem,M6,,,Cap. 6 — TMG
+Vol-2,FrameAlgebra,fin_mk0,theorem,TT24,,,Cap. 6 — TMG
+Vol-2,FrameAlgebra,fin_mk1,theorem,M6,,,Cap. 6 — TMG
+Vol-2,FrameAlgebra,fin_mk1,theorem,TT24,,,Cap. 6 — TMG
+Vol-2,FrameAlgebra,fin_mk2,theorem,TT24,,,Cap. 6 — TMG
+Vol-2,FrameAlgebra,fin_mk3,theorem,TT24,,,Cap. 6 — TMG
+Vol-2,FrameAlgebra,pderiv_comm',lemma,,,,Cap. 6 — TMG
+Vol-2,FrameAlgebra,pure_gauge_ricci_zero,theorem,M6,,,Cap. 6 — TMG
+Vol-2,FrameAlgebra,pure_gauge_ricci_zero,theorem,TT24,,,Cap. 6 — TMG
+Vol-2,GWDispersion,TT_dispersion,theorem,GW-01,,,Cap. 6 — TMG
+Vol-2,GWDispersion,TT_phase_velocity,theorem,GW-01,,,Cap. 6 — TMG
+Vol-2,Graph21,node_count,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,Graph21,nodes_nodup,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,Graph21,edge_count,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,Graph21,edge_sum,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,Graph21,beta1,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,Graph21,beta1_via_group,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,Graph21,rootM,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,Graph21,kink_partition,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,Graph21,axis_partition,theorem,,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,MassChains,m4_eq,theorem,M2,,,Cap. 3 — TM / Cap. 4 — TMT
+Vol-2,MassChains,m4_eq,theorem,PD-T4,,,Cap. 3 — TM / Cap. 4 — TMT
+Vol-2,MassChains,m4_bounds,theorem,M2,,,Cap. 3 — TM / Cap. 4 — TMT
+Vol-2,MassChains,m4_bounds,theorem,PD-T4,,,Cap. 3 — TM / Cap. 4 — TMT
+Vol-2,MassChains,Rtau_gt_aQCD,theorem,PD-T4,,,Cap. 3 — TM / Cap. 4 — TMT
+Vol-2,MassChains,r0_pos,theorem,PD-T4,,,Cap. 3 — TM / Cap. 4 — TMT
+Vol-2,MassChains,kRM_recover,theorem,PD-T4,,,Cap. 3 — TM / Cap. 4 — TMT
+Vol-2,MateriaLM2,lm2_identity,theorem,A03,,,Cap. 3 — TM / Cap. 9 — TMK
+Vol-2,MateriaLM2,lm2_identity,theorem,LM2,LM2: Volúmenes de Configuración de Vórtices Hopf,Lema + Demostración + Ecuación,Cap. 3 — Materia (TM)
+Vol-2,MateriaLM2,lm2_identity,theorem,TM1,TM1: Teorema de Movimiento General,Teorema + Demostración,Cap. 3 — Materia (TM)
+Vol-2,MateriaLM2,lm2_value_interval,theorem,A03,,,Cap. 3 — TM / Cap. 9 — TMK
+Vol-2,MateriaLM2,lm2_value_interval,theorem,LM2,LM2: Volúmenes de Configuración de Vórtices Hopf,Lema + Demostración + Ecuación,Cap. 3 — Materia (TM)
+Vol-2,MateriaLM2,lm2_value_interval,theorem,TM1,TM1: Teorema de Movimiento General,Teorema + Demostración,Cap. 3 — Materia (TM)
+Vol-2,MateriaLM2,lm2_vs_mass_ratio,theorem,LM2,LM2: Volúmenes de Configuración de Vórtices Hopf,Lema + Demostración + Ecuación,Cap. 3 — Materia (TM)
+Vol-2,RhoIField,crossECLM_apply,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,RhoIField,crossECLM_apply,theorem,T7C,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,RhoIField,rpow32,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,RhoIField,rpow52,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,RhoIField,rhoIDipole_grad,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,RhoIField,rhoIDipole_grad,theorem,T7C,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,RhoIField,fderiv_curl_dipole,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,RhoIField,fderiv_curl_dipole,theorem,T7C,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,RhoIField,curl_dipole,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,RhoIField,curl_dipole,theorem,T7C,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,RhoIField,curlE_const_smul,theorem,,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,RhoIField,curl_Ag,theorem,E3,,,Cap. 1 — TT / Cap. 3 — TM
+Vol-2,TA5Shift,lapse_measure_cancellation,theorem,E-24,,,Cap. 5 — TMA
+Vol-2,TA5Shift,lapse_measure_cancellation,theorem,TA5,TA5: Acción de la Fase Interna en TMA,Teorema + Demostración + Ecuación,Cap. 5 — Acción (TMA)
+Vol-2,TA5Shift,quantum_shift_form,theorem,E-24,,,Cap. 5 — TMA
+Vol-2,TA5Shift,quantum_shift_form,theorem,TA5,TA5: Acción de la Fase Interna en TMA,Teorema + Demostración + Ecuación,Cap. 5 — Acción (TMA)
+Vol-2,TMAAlgebra,magnetic_no_work,theorem,A05,,,Cap. 5 — TMA
+Vol-2,TMAAlgebra,magnetic_no_work,theorem,TA4,TA4: Acoplamiento Partícula-Campo EM,Teorema + Demostración + Ecuación,Cap. 5 — Acción (TMA)
+Vol-2,TMAAlgebra,magnetic_no_work,theorem,TMA1,,,Cap. 5 — TMA
+Vol-2,TMAAlgebra,lorentz_power,theorem,A05,,,Cap. 5 — TMA
+Vol-2,TMAAlgebra,lorentz_power,theorem,TA4,TA4: Acoplamiento Partícula-Campo EM,Teorema + Demostración + Ecuación,Cap. 5 — Acción (TMA)
+Vol-2,TMAAlgebra,lorentz_power,theorem,TMA1,,,Cap. 5 — TMA
+Vol-2,TMGAlgebra,rho_max_planck,theorem,A06,,,Cap. 6 — TMG
+Vol-2,TMGAlgebra,rho_max_planck,theorem,D9,,,Cap. 6 — TMG
+Vol-2,TMGAlgebra,rho_max_planck,theorem,TG1,TG1: Expansión Perturbativa del Campo Gravitacional,Teorema + Demostración + Ecuación,Cap. 6 — Gravedad (TMG)
+Vol-2,TMGAlgebra,rho_max_planck,theorem,TG9,TG9: Tensor efectivo de energía-momento gravitacional,Demostración + Ecuación,Cap. 6 — Gravedad (TMG)
+Vol-2,TMGAlgebra,rho_max_planck,theorem,TMG1,,,Cap. 6 — TMG
+Vol-2,TMGAlgebra,rho_max_planck,theorem,V3,,,Cap. 6 — TMG
+Vol-2,TMTAlgebra,kn_radius,theorem,A04,,,Cap. 5 — TMA
+Vol-2,TMTAlgebra,kn_radius,theorem,LTT1,,,Cap. 5 — TMA
+Vol-2,TMTAlgebra,kn_radius,theorem,TMT1,,,Cap. 5 — TMA
+Vol-2,TMTAlgebra,kn_radius,theorem,V1,,,Cap. 5 — TMA
+Vol-2,TMTAlgebra,poynting_loop,theorem,A04,,,Cap. 5 — TMA
+Vol-2,TMTAlgebra,poynting_loop,theorem,LTT1,,,Cap. 5 — TMA
+Vol-2,TMTAlgebra,poynting_loop,theorem,TMT1,,,Cap. 5 — TMA
+Vol-2,TMTAlgebra,poynting_loop,theorem,V1,,,Cap. 5 — TMA
+Vol-2,TMTBaryonCatalog,catalogo_invariantes,theorem,P3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,catalogo_relaciones,theorem,P3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,escalera_catalogo,theorem,L5,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,p1_kink_antikink,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,p1_linea_cruces,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,p1_L_discrepancia,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,p2_monotonia_2c,theorem,E0,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,p2_monotonia_2c,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,p2_monotonia_2c,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,p2_monotonia_linea,theorem,E0,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,p2_monotonia_linea,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,p2_monotonia_L,theorem,E0,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,p2_monotonia_L,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTBaryonCatalog,p1_cruces_codo,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonField,baryon_net_winding_ne_zero,theorem,DE3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonField,baryon_net_winding_ne_zero,theorem,E15,,,Cap. 4 — TMT
+Vol-2,TMTBaryonField,baryon_net_winding_ne_zero,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonField,baryon_net_winding_odd,theorem,DE3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonField,baryon_net_winding_odd,theorem,E15,,,Cap. 4 — TMT
+Vol-2,TMTBaryonField,baryon_net_winding_odd,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonField,E_baryon_lower_bound,theorem,E15,,,Cap. 4 — TMT
+Vol-2,TMTBaryonField,baryon_winding_conserved,theorem,E15,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,E4_six_is_S3,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,E4_six_is_S3,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,E4_six_is_S3,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,E4_six_alt_faces,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,E4_six_alt_faces,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,E4_six_alt_faces,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,baryon_octet_decuplet,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,baryon_octet_decuplet,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,baryon_octet_decuplet,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,S4_order,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,S4_order,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,S4_order,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,S4_order,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,E4_c_scale_hint,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,E4_c_scale_hint,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonOrigin,E4_c_scale_hint,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E4_d_over_c,theorem,E2,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E4_d_over_c,theorem,E3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E4_d_over_c,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E4_d_over_c,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E4_b_over_c,theorem,E2,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E4_b_over_c,theorem,E3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E4_b_over_c,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E4_b_over_c,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E4_c_over_base,theorem,E2,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E4_c_over_base,theorem,E3,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E4_c_over_base,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E2_goldstone_massless,theorem,E2,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,E2_goldstone_massless,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,links_by_baryon,theorem,E2,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,links_by_baryon,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,links_strictly_increase,theorem,E2,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,links_strictly_increase,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,GMO_octet_within_1pct,theorem,E2,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,GMO_octet_within_1pct,theorem,E4,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,GMO_octet_within_1pct,theorem,LHS4514,,,Cap. 4 — TMT
+Vol-2,TMTBaryonSpectrum,GMO_octet_within_1pct,theorem,RHS4540,,,Cap. 4 — TMT
+Vol-2,TMTCellGraph,cell_edges_length,theorem,TMT-E1,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,TMTCellGraph,cell_edges_decomp,theorem,TMT-E1,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,TMTCellGraph,cell_betti1,theorem,TMT-E1,,,Cap. 2 — TE / Cap. 4 — TMT
+Vol-2,TMTCochains,gauge_ciclo4,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTCochains,gauge_add,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTCochains,gauge_refl,theorem,A0,,,Cap. 4 — TMT
+Vol-2,TMTCochains,gauge_refl,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTCochains,gauge_symm,theorem,A0,,,Cap. 4 — TMT
+Vol-2,TMTCochains,gauge_symm,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTCochains,gauge_trans,theorem,A0,,,Cap. 4 — TMT
+Vol-2,TMTCochains,gauge_trans,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTCochains,p2_datos_check,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTCochains,p2_inequivalencia,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTConfig,edges_decomp,theorem,A2,,,Cap. 4 — TMT
+Vol-2,TMTConfig,edges_decomp,theorem,C1,,,Cap. 4 — TMT
+Vol-2,TMTConfig,edges_decomp,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTConfig,edges_decomp,theorem,TMT-01,,,Cap. 4 — TMT
+Vol-2,TMTConfig,betti1,theorem,A2,,,Cap. 4 — TMT
+Vol-2,TMTConfig,betti1,theorem,C1,,,Cap. 4 — TMT
+Vol-2,TMTConfig,betti1,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTConfig,betti1,theorem,TMT-01,,,Cap. 4 — TMT
+Vol-2,TMTConfig,nodes_decomp,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTConfig,nodes_decomp,theorem,TMT-01,,,Cap. 4 — TMT
+Vol-2,TMTConfig,O_card,theorem,TMT-01,,,Cap. 4 — TMT
+Vol-2,TMTConfig,O_card,theorem,TMT-02,,,Cap. 4 — TMT
+Vol-2,TMTConfig,O_factor,theorem,TMT-01,,,Cap. 4 — TMT
+Vol-2,TMTConfig,O_factor,theorem,TMT-02,,,Cap. 4 — TMT
+Vol-2,TMTConfig,C_values,theorem,TMT-01,,,Cap. 4 — TMT
+Vol-2,TMTConfig,C_values,theorem,TMT-02,,,Cap. 4 — TMT
+Vol-2,TMTConfig,C_values,theorem,TMT-03,,,Cap. 4 — TMT
+Vol-2,TMTConfig,axes_labeled_not_orbit,theorem,TMT-02,,,Cap. 4 — TMT
+Vol-2,TMTConfig,axes_labeled_not_orbit,theorem,TMT-03,,,Cap. 4 — TMT
+Vol-2,TMTConfig,T_examples,theorem,TMT-03,,,Cap. 4 — TMT
+Vol-2,TMTConfig,T_examples,theorem,TMT-04,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_raw,theorem,B3,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_raw,theorem,B4,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_raw,theorem,B5,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_raw,theorem,B5B,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_raw,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_fixed_by_swap,theorem,B3,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_fixed_by_swap,theorem,B4,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_fixed_by_swap,theorem,B5,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_fixed_by_swap,theorem,B5B,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_fixed_by_swap,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_orbits,theorem,B3,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_orbits,theorem,B4,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_orbits,theorem,B5,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_orbits,theorem,B5B,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_orbits,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_classes_ne_C,theorem,B4,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,pair_classes_ne_C,theorem,B5B,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,winding_no_slip,theorem,B4,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,winding_no_slip,theorem,B5B,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,E_pair_lower_bound,theorem,B4,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,E_pair_lower_bound,theorem,B5B,,,Cap. 4 — TMT
+Vol-2,TMTFieldPair,E_pair_lower_bound,theorem,W0,,,Cap. 4 — TMT
+Vol-2,TMTFlowPair,neutral_pairs_card,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTFlowPair,neutral_pairs_card,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTFlowPair,neutral_classes_mod_neg,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTFlowPair,neutral_classes_mod_neg,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTFlowPair,natural_flow_ne_C,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_nodes,theorem,E10,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_nodes,theorem,E11,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_nodes,theorem,E7,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_nodes,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_edges,theorem,E10,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_edges,theorem,E11,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_edges,theorem,E7,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_edges,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_plaquettes,theorem,E10,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_plaquettes,theorem,E11,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_plaquettes,theorem,E7,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_plaquettes,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_plaq_eq_S4,theorem,E10,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_plaq_eq_S4,theorem,E11,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_plaq_eq_S4,theorem,E7,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_plaq_eq_S4,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,Gamma21_plaq_eq_S4,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E7_six_is_S3,theorem,E10,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E7_six_is_S3,theorem,E11,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E7_six_is_S3,theorem,E7,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E7_six_is_S3,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E7_six_is_S3,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E7_six_is_S3,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E10_a_over_base,theorem,E10,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E10_a_over_base,theorem,E11,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E10_a_over_base,theorem,E7,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E10_a_over_base,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E10_a_over_base,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E10_integers,theorem,E10,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E10_integers,theorem,E11,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E10_integers,theorem,E7,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E10_integers,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,E10_integers,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,gamma21_VE,theorem,P4,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,gamma21_class_sizes,theorem,P4,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,gamma21_separacion,theorem,P4,,,Cap. 4 — TMT
+Vol-2,TMTGamma21,gamma21_center_unique_deg12,theorem,P4,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellAdj_symm,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellAdj_irrefl,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_edges,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_verts,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_adj_center,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_noLoop,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_symm,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_reachable_center,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_reachable_from_center,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_connected,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_deg_center,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_deg_corner,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_deg8_unique,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_count_deg8,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_count_deg4,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_iso_fixes_center,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellEdgeList_types,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_corner_neighbors,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,swapYZFun_inj,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,swapYZFun_surj,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,swapYZEquiv_apply,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,swapYZEquiv_adj,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,flipFun_inj,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,flipFun_surj,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,flipFun_adj,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,flipIso_apply,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_corner0_reaches,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,flipFun_apply_lt,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cellGraph_corners_transitive,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,pair_edges,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,pair_halves,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,pair_invariants,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,pairEA_invariants,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,pairFA_invariants,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,star_invariants,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,star_rings_touch_only_at_0,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,cube_aut_card,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTGraph,n11_invariants,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTMesonStructure,T_meson_by_mode,theorem,B2,,,Cap. 4 — TMT
+Vol-2,TMTMesonStructure,T_meson_by_mode,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTMesonStructure,T_meson_by_mode,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTMesonStructure,coupled_structures,theorem,B2,,,Cap. 4 — TMT
+Vol-2,TMTMesonStructure,coupled_structures,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTMesonStructure,coupled_structures,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTMesonStructure,C_pion_not_from_structure,theorem,B2,,,Cap. 4 — TMT
+Vol-2,TMTMesonStructure,C_pion_not_from_structure,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTMesonStructure,C_kaon_not_from_structure,theorem,B2,,,Cap. 4 — TMT
+Vol-2,TMTMesonStructure,C_kaon_not_from_structure,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTMesonStructure,C_meson_values,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTMesons,kaon_CT,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTMesons,kaon_CT,theorem,H6,,,Cap. 4 — TMT
+Vol-2,TMTMesons,kaon_CT,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTMesons,pion_CT,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTMesons,pion_CT,theorem,H6,,,Cap. 4 — TMT
+Vol-2,TMTMesons,pion_CT,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTMesons,meson_CT,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTMesons,meson_CT,theorem,H6,,,Cap. 4 — TMT
+Vol-2,TMTMesons,meson_CT,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTMesons,T_structures,theorem,B2B,,,Cap. 4 — TMT
+Vol-2,TMTMesons,T_structures,theorem,H6,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoOrbits,A4_class_structure,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoOrbits,A4_class_structure,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoOrbits,neutrino_orbit_ppMM,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoOrbits,neutrino_orbit_ppMM,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoOrbits,neutrino_orbit_pM00,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoOrbits,neutrino_orbit_pM00,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoOrbits,neutrino_doc_ne_A4,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoOrbits,neutrino_orbit_trivial,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_configs_total,theorem,E18,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_configs_total,theorem,E20,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_configs_total,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_orbit_sizes,theorem,E18,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_orbit_sizes,theorem,E20,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_orbit_sizes,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_size_pM,theorem,E18,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_size_pM,theorem,E20,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_size_pM,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_size_ppMM,theorem,E18,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_size_ppMM,theorem,E20,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,neutrino_size_ppMM,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,E20_phi_hint,theorem,E18,,,Cap. 4 — TMT
+Vol-2,TMTNeutrinoSizes,E20_phi_hint,theorem,E20,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_corners,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_corners,theorem,TMT-02B,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_corners,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_edges,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_edges,theorem,TMT-02B,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_edges,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_axes,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_axes,theorem,TMT-02B,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_axes,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_diagonals,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_diagonals,theorem,TMT-02B,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,orbit_stab_diagonals,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,stab_axis_order,theorem,D4,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,stab_axis_order,theorem,H2,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,stab_axis_order,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,stab_axis_order,theorem,TMT-02B,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,sylow2_index_odd,theorem,D4,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,sylow2_index_odd,theorem,H2,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,sylow2_index_odd,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,sylow2_index_odd,theorem,TMT-02B,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,axes_orbit_and_stab,theorem,D4,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,axes_orbit_and_stab,theorem,H2,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,axes_orbit_and_stab,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,axes_orbit_and_stab,theorem,TMT-02B,,,Cap. 4 — TMT
+Vol-2,TMTOctahedral,axes_orbit_and_stab,theorem,TMT-03B,,,Cap. 4 — TMT
+Vol-2,TMTPendientes,T11_candidate_structure,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTPendientes,T11_candidate_structure,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTPendientes,T11_not_simple_mode,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTPendientes,T11_not_simple_mode,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTPendientes,meson_T_modes,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTPendientes,meson_T_modes,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTPendientes,neutrino_A4_summary,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTPendientes,neutrino_A4_summary,theorem,E14,,,Cap. 4 — TMT
+Vol-2,TMTPendientes,neutrino_A4_summary,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTPendientes,TMT_pendientes_nota,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTPendientes,TMT_pendientes_nota,theorem,E14,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,p6_fijos,theorem,L12,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,p6_fijos,theorem,L13,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,p6_fijos,theorem,L23,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,p6_fijos,theorem,P6,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,p6_burnside,theorem,P6,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,p6_tamanos,theorem,P6,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,p6_por_k,theorem,P6,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,p7_chi,theorem,P7,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,p7_phi,theorem,P7,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,selector_deduccion,theorem,P3,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,selector_deduccion,theorem,P7,,,Cap. 4 — TMT
+Vol-2,TMTRonda2,p5_VE,theorem,P5,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a0,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a1,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a2,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a3,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a4,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a5,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a6,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a7,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a8,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a9,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a10,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a11,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a12,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a13,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a14,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_a15,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_norb,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LS_eorb,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LE_a0,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LE_a1,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LE_a2,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LE_a3,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LE_norb,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_LE_eorb,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a0,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a1,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a2,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a3,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a4,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a5,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a6,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a7,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a8,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a9,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a10,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a11,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a12,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a13,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a14,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_a15,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_norb,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PS_eorb,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PE_a0,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PE_a1,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PE_a2,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PE_a3,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PE_norb,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRonda2P5,p5_PE_eorb,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,O_card_rot,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,Oset_one,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,Oset_mul,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,Oset_inv,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,inversion_not_rot,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,orbit_vertex,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,stab_vertex,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,orbit_edge,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,stab_edge,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,orbit_axis,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,stab_axis,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,orbit_diag,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,stab_diag,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTRotations,s4_card,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTRotations,diag_faithful,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTStability,Ecycle_w1_n4,theorem,A2,,,Cap. 4 — TMT
+Vol-2,TMTStability,Ecycle_w1_n4,theorem,C1A,,,Cap. 4 — TMT
+Vol-2,TMTStability,Ecycle_w1_n4,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTStability,Ecycle_w0,theorem,A2,,,Cap. 4 — TMT
+Vol-2,TMTStability,Ecycle_w0,theorem,C1A,,,Cap. 4 — TMT
+Vol-2,TMTStability,Ecycle_w0,theorem,J1,,,Cap. 4 — TMT
+Vol-2,TMTStability,C_min_counts,theorem,A2,,,Cap. 4 — TMT
+Vol-2,TMTStability,C_min_counts,theorem,J0,,,Cap. 4 — TMT
+Vol-2,TMTStability,C_min_counts,theorem,J1,,,Cap. 4 — TMT
+Vol-2,TMTTStabilizer,kk_pairings_count,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTTStabilizer,kk_stab_order,theorem,S2,,,Cap. 4 — TMT
+Vol-2,TMTTStabilizer,kk_stab_order,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTTStabilizer,kk_orbit_stab,theorem,S2,,,Cap. 4 — TMT
+Vol-2,TMTTStabilizer,kk_orbit_stab,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTTStabilizer,kk_stab_is_sylow2,theorem,S2,,,Cap. 4 — TMT
+Vol-2,TMTTStabilizer,kk_stab_is_sylow2,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_VEF,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_VEF,theorem,E14,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_VEF,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_VEF,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_VEF,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_S4,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_S4,theorem,E14,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_S4,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_S4,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_S4,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_A4,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_A4,theorem,E14,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_A4,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_A4,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_S3,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_S3,theorem,E14,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_S3,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_S3,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_baryon_integers,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_baryon_integers,theorem,E14,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_baryon_integers,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,tetra_baryon_integers,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,octahedron_dual,theorem,A4,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,octahedron_dual,theorem,E14,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,octahedron_dual,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTTetrahedron,octahedron_dual,theorem,S4,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_raw,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_raw,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_orbits,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_68_ne_56,theorem,C2,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_68_ne_56,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_68_ne_56,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_orbits_ne_CT,theorem,C2,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_orbits_ne_CT,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_orbits_ne_CT,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_max_links,theorem,C2,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_max_links,theorem,K3,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_max_links,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,baryon_max_links,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,burnside_id,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,burnside_transposition,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,burnside_transposition_card,theorem,S3,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,burnside_3cycle_card,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTThreeLoops,burnside_sum,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_c_def,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_c_def,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_c_def,theorem,P3,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_c_def,theorem,T01,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_hbar,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_hbar,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_hbar,theorem,P3,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_hbar,theorem,T01,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_G,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_G,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_G,theorem,P3,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_G,theorem,T01,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_hbar_errata,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_hbar_errata,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_hbar_errata,theorem,P3,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_hbar_errata,theorem,T01,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p1_G_errata,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p2,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p2,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p3_F1,theorem,P1,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p3_F1,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p3_F1,theorem,P3,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p3_split,theorem,P2,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p3_split,theorem,P3,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p3_F4,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p3_F3,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p3_edges_dedup,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTTicketT01,p3_alpha,theorem,,,,Cap. 4 — TMT
+Vol-2,TMTWinding,windTerm_eq_of_band,theorem,C1A,,,Cap. 4 — TMT
+Vol-2,TMTWinding,windTerm_eq_of_band,theorem,TMT-E1,,,Cap. 4 — TMT
+Vol-2,TMTWinding,winding_invariant,theorem,C1A,,,Cap. 4 — TMT
+Vol-2,TMTWinding,winding_const_of_no_slip,theorem,C1A,,,Cap. 4 — TMT
+Vol-2,TensorEstatico,tt8_core,theorem,A01A,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-2,TensorEstatico,tt8_core,theorem,EC2,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-2,TensorEstatico,tt8_core,theorem,F29,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-2,TensorEstatico,tt8_core,theorem,LT3,LT3: Tensor de Einstein para la métrica TIE estática,Lema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-2,TensorEstatico,tt8_core,theorem,PT2,PT2: Independencia y Separación Absoluta,Ecuación,Cap. 1 — Tiempo (TT)
+Vol-2,TensorEstatico,tt8_core,theorem,TT8,TT8: Unicidad de la solución de vacío esféricamente simétrica,Teorema + Demostración,Cap. 1 — Tiempo (TT)
+Vol-2,TensorEstatico,tt8_einstein3,theorem,EC2,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-2,TensorEstatico,tt8_einstein3,theorem,LT3,LT3: Tensor de Einstein para la métrica TIE estática,Lema + Demostración + Ecuación,Cap. 1 — Tiempo (TT)
+Vol-2,TensorEstatico,tt8_einstein3,theorem,R3,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-2,TensorEstatico,tt8_einstein3,theorem,TT8,TT8: Unicidad de la solución de vacío esféricamente simétrica,Teorema + Demostración,Cap. 1 — Tiempo (TT)
+Vol-2,TensorEstatico,tt8_equivalence,theorem,EC2,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-2,TensorEstatico,tt8_equivalence,theorem,R3,,,Cap. 1 — TT / Cap. 6 — TMG
+Vol-2,TensorEstatico,tt8_equivalence,theorem,TT8,TT8: Unicidad de la solución de vacío esféricamente simétrica,Teorema + Demostración,Cap. 1 — Tiempo (TT)
