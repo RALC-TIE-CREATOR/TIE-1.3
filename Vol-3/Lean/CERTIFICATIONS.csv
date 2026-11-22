@@ -68,6 +68,50 @@ Vol-3,Cosmology,omega_pesos,theorem,M3,,,Cap. 9 — TMK
 Vol-3,Cosmology,omega_pesos,theorem,TC10,,,Cap. 9 — TMK
 Vol-3,Cosmology,omegaB_menor,theorem,TC10,,,Cap. 9 — TMK
 Vol-3,Cosmology,omegaB_mayor,theorem,,,,Cap. 9 — TMK
+Vol-3,ENTLattice,exchange_ticks,theorem,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLattice,exchange_ticks,theorem,T01,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLattice,exchange_swaps,theorem,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLattice,rel_path,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLattice,W_single,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLattice,W_double,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,angR_one,lemma,G2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,angR_one,lemma,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,angR_one,lemma,T02,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,angR_neg_one,lemma,G2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,angR_neg_one,lemma,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,angR_neg_one,lemma,T02,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,dAng_antisymm,theorem,G2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,dAng_antisymm,theorem,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,dAng_mod,theorem,P2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,Sraw_telescope,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,Wg_mod,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,exchange_class,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,Wg_backtrack,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,Wg_class_eq,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTLatticeGen,exchange_winding_ne_zero,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTP3,chi_completa,theorem,P3,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTP3,chi_completa,theorem,T01,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTP3,chi_completa,theorem,Z2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTP3,chi_trivial,theorem,P3,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTP3,chi_trivial,theorem,T01,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTP3,chi_trivial,theorem,Z2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTP3,puente,theorem,P3,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTP3,puente,theorem,Z2,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauli,pauli_sq,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauli,pauli_sq,theorem,P1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauli,pauli_sq,theorem,T01,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauli,pauli_sq,theorem,T02,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauli,exp_theta_s3_diag,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauli,exp_theta_s3_diag,theorem,P1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauli,exp_theta_s3_diag,theorem,T02,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauli,exp_pi_s3,theorem,P1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauliGen,exp_theta_s3_cos_sin,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauliGen,exp_theta_s3_cos_sin,theorem,T02,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauliGen,conjU_spec,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauliGen,conjU_det,theorem,,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauliGen,exp_theta_gen,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauliGen,exp_pi_gen,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
+Vol-3,ENTPauliGen,exp_two_pi_gen,theorem,G1,,,Cap. 3 — TM / Cap. 7 — TMQ
 Vol-3,Epochs,t0_positive,theorem,D-2,,,Cap. 1 — TT / Cap. 9 — TMK
 Vol-3,Epochs,ages_sum_of_defs,theorem,D-2,,,Cap. 1 — TT / Cap. 9 — TMK
 Vol-3,F1QuickWins,pt4_homogeneity,theorem,,,,Varios (cierre)

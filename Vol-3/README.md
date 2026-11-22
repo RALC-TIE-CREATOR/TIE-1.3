@@ -24,7 +24,7 @@
 
 ### Certificaciones Lean
 
-La carpeta [`Lean/`](Lean/README.md) contiene **18 módulos** y **88 declaraciones** `theorem`/`lemma` (copias de certificación; incluye módulos compartidos con otros volúmenes). Cubre **4 ítems** del inventario V1.3. El mapa ítem → módulo → teorema está en [`Lean/README.md`](Lean/README.md) y el export completo en [`Lean/CERTIFICATIONS.csv`](Lean/CERTIFICATIONS.csv).
+La carpeta [`Lean/`](Lean/README.md) contiene **23 módulos** y **115 declaraciones** `theorem`/`lemma` (copias de certificación; incluye módulos compartidos con otros volúmenes). Cubre **4 ítems** del inventario V1.3. El mapa ítem → módulo → teorema está en [`Lean/README.md`](Lean/README.md) y el export completo en [`Lean/CERTIFICATIONS.csv`](Lean/CERTIFICATIONS.csv).
 
 ### Cita y licencia
 
@@ -54,7 +54,7 @@ Lecona C., R. A. (2026). *TIE — Teoría de la Infraestructura Espacial, V1.3* 
 
 ### Lean certifications
 
-The [`Lean/`](Lean/README.md) folder contains **18 modules** and **88 `theorem`/`lemma` declarations** (certification copies; includes modules shared with other volumes). It covers **4 V1.3 inventory items**. The item → module → theorem map is in [`Lean/README.md`](Lean/README.md); the full export is [`Lean/CERTIFICATIONS.csv`](Lean/CERTIFICATIONS.csv).
+The [`Lean/`](Lean/README.md) folder contains **23 modules** and **115 `theorem`/`lemma` declarations** (certification copies; includes modules shared with other volumes). It covers **4 V1.3 inventory items**. The item → module → theorem map is in [`Lean/README.md`](Lean/README.md); the full export is [`Lean/CERTIFICATIONS.csv`](Lean/CERTIFICATIONS.csv).
 
 ### Citation and license
 

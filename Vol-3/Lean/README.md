@@ -4,7 +4,7 @@
 
 ## Español
 
-**Carpeta:** `Vol-3/Lean/` · **Módulos:** 18 · **Declaraciones `theorem`/`lemma`:** 88 · **Ítems cubiertos del inventario V1.3:** 4 (4 con etiqueta).
+**Carpeta:** `Vol-3/Lean/` · **Módulos:** 23 · **Declaraciones `theorem`/`lemma`:** 115 · **Ítems cubiertos del inventario V1.3:** 4 (4 con etiqueta).
 
 Estas copias son un **snapshot de certificación** extraído del repositorio compilable [`TIE-Formal`](https://github.com/RALC-TIE-CREATOR/TIE-Formal). El proyecto completo se compila allí con Mathlib; los archivos de esta carpeta conservan sus `import TieFormal.*` originales. No se incluyen `sorry`, `admit` ni `axiom` en los módulos activos. El mapa se generó desde `REGISTRO_CIERRE_GAP.csv`, `LEAN_LABELS.csv` y las notas de cierre; las correspondencias no 1:1 se marcan como `— (definiciones/estructura)`.
 
@@ -31,6 +31,11 @@ Estas copias son un **snapshot de certificación** extraído del repositorio com
 | `Baryogenesis` | 7 | 0 | Cap. 9 — TMK |
 | `CosmologiaTT` | 4 | 0 | Cap. 1 — TT / Cap. 9 — TMK |
 | `Cosmology` | 5 | 1 | Cap. 9 — TMK |
+| `ENTLattice` | 5 | 0 | Cap. 3 — TM / Cap. 7 — TMQ |
+| `ENTLatticeGen` | 10 | 0 | Cap. 3 — TM / Cap. 7 — TMQ |
+| `ENTP3` | 3 | 0 | Cap. 3 — TM / Cap. 7 — TMQ |
+| `ENTPauli` | 3 | 0 | Cap. 3 — TM / Cap. 7 — TMQ |
+| `ENTPauliGen` | 6 | 0 | Cap. 3 — TM / Cap. 7 — TMQ |
 | `Epochs` | 2 | 0 | Cap. 1 — TT / Cap. 9 — TMK |
 | `F1QuickWins` | 17 | 1 | Varios (cierre) |
 | `F3Structural` | 3 | 2 | Varios (cierre) |
@@ -54,6 +59,11 @@ Estas copias son un **snapshot de certificación** extraído del repositorio com
 | `Baryogenesis` | `s_sobre_ngamma`, `g_B_value`, `g_ratio`, `eta_combinada`, `eta_factor_estructura`, `Lambda_como_OmegaL`, `H0_consistencia` |
 | `CosmologiaTT` | `OmegaLambda_pos`, `OmegaLambda_lt_one`, `friedmann_crit_identity`, `wphi_continuity_zero` |
 | `Cosmology` | `omega_sum`, `omega_numeradores`, `omega_pesos`, `omegaB_menor`, `omegaB_mayor` |
+| `ENTLattice` | `exchange_ticks`, `exchange_swaps`, `rel_path`, `W_single`, `W_double` |
+| `ENTLatticeGen` | `angR_one`, `angR_neg_one`, `dAng_antisymm`, `dAng_mod`, `Sraw_telescope`, `Wg_mod`, `exchange_class`, `Wg_backtrack`, `Wg_class_eq`, `exchange_winding_ne_zero` |
+| `ENTP3` | `chi_completa`, `chi_trivial`, `puente` |
+| `ENTPauli` | `pauli_sq`, `exp_theta_s3_diag`, `exp_pi_s3` |
+| `ENTPauliGen` | `exp_theta_s3_cos_sin`, `conjU_spec`, `conjU_det`, `exp_theta_gen`, `exp_pi_gen`, `exp_two_pi_gen` |
 | `Epochs` | `t0_positive`, `ages_sum_of_defs` |
 | `F1QuickWins` | `pt4_homogeneity`, `pt4_translation_bijective`, `co2_first_order_product`, `co2_gps_arithmetic`, `co3_redshift_positive`, `lt2_dispersion_solve`, `tt10_schwarzschild_identity`, `tt21_sgrA_consistency`, `co5_gpb_sigma`, `co6_sagnac_additive`, `co1_distortion_factorization`, `te4_phi_positive`, `tt18_domain_nonempty`, `tt2_phi_factorization`, `lc1_phase_locked`, `lm1_mass_radius_duality`, `tm2_conservation` |
 | `F3Structural` | `tmt_radius_relation`, `tmk_tc2c_dilation`, `tc5_atr_identity` |
@@ -87,7 +97,7 @@ lake build TieFormal
 
 ## English
 
-**Folder:** `Vol-3/Lean/` · **Modules:** 18 · **`theorem`/`lemma` declarations:** 88 · **V1.3 inventory items covered:** 4 (4 with label).
+**Folder:** `Vol-3/Lean/` · **Modules:** 23 · **`theorem`/`lemma` declarations:** 115 · **V1.3 inventory items covered:** 4 (4 with label).
 
 These are **certification snapshots** extracted from the buildable [`TIE-Formal`](https://github.com/RALC-TIE-CREATOR/TIE-Formal) repository. The full project builds there with Mathlib; the files here keep their original `import TieFormal.*` lines. Active modules contain no `sorry`, `admit` or `axiom`. The map was generated from `REGISTRO_CIERRE_GAP.csv`, `LEAN_LABELS.csv` and the closure notes; non-1:1 correspondences are marked `— (definitions/structure)`.
 

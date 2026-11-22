@@ -56,7 +56,7 @@ Base Lean completa: **78 módulos**, **503 declaraciones** (`491 theorem` + `12 
 |---|---|---|---|---|
 | **Vol. I** | 22 | 137 | 43 | [Mapa](Vol-1/Lean/README.md) |
 | **Vol. II** | 52 | 395 | 26 | [Mapa](Vol-2/Lean/README.md) |
-| **Vol. III** | 18 | 88 | 4 | [Mapa](Vol-3/Lean/README.md) |
+| **Vol. III** | 23 | 115 | 4 | [Mapa](Vol-3/Lean/README.md) |
 
 *Las declaraciones por volumen incluyen módulos compartidos; el total único del proyecto es 503.*
 
@@ -128,7 +128,7 @@ Full Lean base: **78 modules**, **503 declarations** (`491 theorem` + `12 lemma`
 |---|---|---|---|---|
 | **Vol. I** | 22 | 137 | 43 | [Map](Vol-1/Lean/README.md) |
 | **Vol. II** | 52 | 395 | 26 | [Map](Vol-2/Lean/README.md) |
-| **Vol. III** | 18 | 88 | 4 | [Map](Vol-3/Lean/README.md) |
+| **Vol. III** | 23 | 115 | 4 | [Map](Vol-3/Lean/README.md) |
 
 *Per-volume declarations include shared modules; the unique project total is 503.*
 
