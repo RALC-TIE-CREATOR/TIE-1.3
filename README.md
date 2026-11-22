@@ -34,7 +34,7 @@ TIE propone una lectura ontológica del universo basada en **tiempo absoluto**, 
 ### Estructura del repositorio
 
 ```
-TIE-1.3-Text/
+TIE-1.3/
 ├── README.md                 # este documento bilingüe
 ├── LICENSE                   # CC BY 4.0
 ├── Vol-1/                    # Fundamentos
@@ -106,7 +106,7 @@ TIE proposes an ontological reading of the universe based on **absolute time**, 
 ### Repository layout
 
 ```
-TIE-1.3-Text/
+TIE-1.3/
 ├── README.md                 # this bilingual document
 ├── LICENSE                   # CC BY 4.0
 ├── Vol-1/                    # Foundations
