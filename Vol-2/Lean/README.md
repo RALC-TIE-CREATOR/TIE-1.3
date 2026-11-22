@@ -6,7 +6,7 @@
 
 **Carpeta:** `Vol-2/Lean/` · **Módulos:** 52 · **Declaraciones `theorem`/`lemma`:** 395 · **Ítems cubiertos del inventario V1.3:** 26 (22 con etiqueta).
 
-Estas copias son un **snapshot de certificación** extraído del repositorio compilable [`TIE-Formal`](https://github.com/RALC-TIE-CREATOR/TIE-Formal). El proyecto completo se compila allí con Mathlib; los archivos de esta carpeta conservan sus `import TieFormal.*` originales. No se incluyen `sorry`, `admit` ni `axiom` en los módulos activos.
+Estas copias son un **snapshot de certificación** extraído del repositorio compilable [`TIE-Formal`](https://github.com/RALC-TIE-CREATOR/TIE-Formal). El proyecto completo se compila allí con Mathlib; los archivos de esta carpeta conservan sus `import TieFormal.*` originales. No se incluyen `sorry`, `admit` ni `axiom` en los módulos activos. El mapa se generó desde `REGISTRO_CIERRE_GAP.csv`, `LEAN_LABELS.csv` y las notas de cierre; las correspondencias no 1:1 se marcan como `— (definiciones/estructura)`.
 
 ### Mapa ítem → certificación
 
@@ -176,7 +176,7 @@ lake build TieFormal
 
 **Folder:** `Vol-2/Lean/` · **Modules:** 52 · **`theorem`/`lemma` declarations:** 395 · **V1.3 inventory items covered:** 26 (22 with label).
 
-These are **certification snapshots** extracted from the buildable [`TIE-Formal`](https://github.com/RALC-TIE-CREATOR/TIE-Formal) repository. The full project builds there with Mathlib; the files here keep their original `import TieFormal.*` lines. Active modules contain no `sorry`, `admit` or `axiom`.
+These are **certification snapshots** extracted from the buildable [`TIE-Formal`](https://github.com/RALC-TIE-CREATOR/TIE-Formal) repository. The full project builds there with Mathlib; the files here keep their original `import TieFormal.*` lines. Active modules contain no `sorry`, `admit` or `axiom`. The map was generated from `REGISTRO_CIERRE_GAP.csv`, `LEAN_LABELS.csv` and the closure notes; non-1:1 correspondences are marked `— (definitions/structure)`.
 
 The tables above are language-neutral: `Ítem/Item`, `Tipo/Type`, `Título/Title`, `Módulo/Module`, `Declaración(es)/Declaration(s)`, `Capítulo(s)/Chapter(s)`. The full row-level export is in [`CERTIFICATIONS.csv`](CERTIFICATIONS.csv).
 
